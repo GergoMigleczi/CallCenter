@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/CallCenter/bin/Debug/netcoreapp3.1/CallCenter.deps.json
+/Users/migleczigergo/Projects/CallCenter/bin/Debug/netcoreapp3.1/CallCenter.runtimeconfig.json
+/Users/migleczigergo/Projects/CallCenter/bin/Debug/netcoreapp3.1/CallCenter.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/CallCenter/bin/Debug/netcoreapp3.1/CallCenter.dll
+/Users/migleczigergo/Projects/CallCenter/bin/Debug/netcoreapp3.1/CallCenter.pdb
+/Users/migleczigergo/Projects/CallCenter/obj/Debug/netcoreapp3.1/CallCenter.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/CallCenter/obj/Debug/netcoreapp3.1/CallCenter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/CallCenter/obj/Debug/netcoreapp3.1/CallCenter.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/CallCenter/obj/Debug/netcoreapp3.1/CallCenter.AssemblyInfo.cs
+/Users/migleczigergo/Projects/CallCenter/obj/Debug/netcoreapp3.1/CallCenter.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/CallCenter/obj/Debug/netcoreapp3.1/CallCenter.dll
+/Users/migleczigergo/Projects/CallCenter/obj/Debug/netcoreapp3.1/CallCenter.pdb
+/Users/migleczigergo/Projects/CallCenter/obj/Debug/netcoreapp3.1/CallCenter.genruntimeconfig.cache
